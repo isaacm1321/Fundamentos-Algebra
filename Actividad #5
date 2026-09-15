@@ -1,0 +1,783 @@
+# Ubica los siguientes números complejos en el plano
+
+### 19) $-2 + 3i$
+- **Procedimiento:**
+  $$\text{Re}(z) = -2$$
+  $$\text{Im}(z) = 3$$
+  $$(x, y) = (-2, 3)$$
+- **Resultado:**
+  $$(-2, 3) \quad \text{(Cuadrante II)}$$
+
+---
+
+### 20) $1 - 2i$
+- **Procedimiento:**
+  $$\text{Re}(z) = 1$$
+  $$\text{Im}(z) = -2$$
+  $$(x, y) = (1, -2)$$
+- **Resultado:**
+  $$(1, -2) \quad \text{(Cuadrante IV)}$$
+
+---
+
+### 21) $-4 + 3i$
+- **Procedimiento:**
+  $$\text{Re}(z) = -4$$
+  $$\text{Im}(z) = 3$$
+  $$(x, y) = (-4, 3)$$
+- **Resultado:**
+  $$(-4, 3) \quad \text{(Cuadrante II)}$$
+
+---
+
+### 22) $3 + i$
+- **Procedimiento:**
+  $$\text{Re}(z) = 3$$
+  $$\text{Im}(z) = 1$$
+  $$(x, y) = (3, 1)$$
+- **Resultado:**
+  $$(3, 1) \quad \text{(Cuadrante I)}$$
+
+---
+
+### 23) $-4 - 4i$
+- **Procedimiento:**
+  $$\text{Re}(z) = -4$$
+  $$\text{Im}(z) = -4$$
+  $$(x, y) = (-4, -4)$$
+- **Resultado:**
+  $$(-4, -4) \quad \text{(Cuadrante III)}$$
+
+---
+
+### 24) $-2 - i$
+- **Procedimiento:**
+  $$\text{Re}(z) = -2$$
+  $$\text{Im}(z) = -1$$
+  $$(x, y) = (-2, -1)$$
+- **Resultado:**
+  $$(-2, -1) \quad \text{(Cuadrante III)}$$
+
+---
+
+# Resuelve las siguientes operaciones con los números complejos
+
+### 25) $(-7 - 4i) - (2 + i)$
+- **Procedimiento:**
+  $$(-7 - 4i) - (2 + i)$$
+  $$-7 - 4i - 2 - i$$
+  $$-7 - 2 - 4i - i$$
+  $$-9 - 5i$$
+- **Resultado:**
+  $$-9 - 5i$$
+
+---
+
+### 26) $(2 - 4i) - (5 - 3i)$
+- **Procedimiento:**
+  $$(2 - 4i) - (5 - 3i)$$
+  $$2 - 4i - 5 + 3i$$
+  $$2 - 5 - 4i + 3i$$
+  $$-3 - i$$
+- **Resultado:**
+  $$-3 - i$$
+
+---
+
+### 27) $(7 - 8i) - (3i) - 7$
+- **Procedimiento:**
+  $$(7 - 8i) - (3i) - 7$$
+  $$7 - 8i - 3i - 7$$
+  $$7 - 7 - 8i - 3i$$
+  $$0 - 11i$$
+  $$-11i$$
+- **Resultado:**
+  $$-11i$$
+
+---
+
+### 28) $(1 + 5i) + (-8 - 5i) + 3$
+- **Procedimiento:**
+  $$(1 + 5i) + (-8 - 5i) + 3$$
+  $$1 + 5i - 8 - 5i + 3$$
+  $$1 - 8 + 3 + 5i - 5i$$
+  $$-4 + 0i$$
+  $$-4$$
+- **Resultado:**
+  $$-4$$
+
+---
+
+### 29) $-8 - (3 - 5i) + (4 + 8i)$
+- **Procedimiento:**
+  $$-8 - (3 - 5i) + (4 + 8i)$$
+  $$-8 - 3 + 5i + 4 + 8i$$
+  $$-8 - 3 + 4 + 5i + 8i$$
+  $$-7 + 13i$$
+- **Resultado:**
+  $$-7 + 13i$$
+
+---
+
+### 30) $(-4 + 2i) + (3i) + (-4 - 7i)$
+- **Procedimiento:**
+  $$(-4 + 2i) + (3i) + (-4 - 7i)$$
+  $$-4 + 2i + 3i - 4 - 7i$$
+  $$-4 - 4 + 2i + 3i - 7i$$
+  $$-8 - 2i$$
+- **Resultado:**
+  $$-8 - 2i$$
+
+---
+
+### 31) $(2i)(-4i)$
+- **Procedimiento:**
+  $$(2i)(-4i)$$
+  $$-8i^2$$
+  $$-8(-1)$$
+  $$8$$
+- **Resultado:**
+  $$8$$
+
+---
+
+### 32) $(-2i)(5i) \cdot 6$
+- **Procedimiento:**
+  $$(-2i)(5i) \cdot 6$$
+  $$-10i^2 \cdot 6$$
+  $$-10(-1) \cdot 6$$
+  $$10 \cdot 6$$
+  $$60$$
+- **Resultado:**
+  $$60$$
+
+---
+
+### 33) $(-7i)(8 + 8i)(-2 - 8i)$
+- **Procedimiento:**
+  $$(-7i)(8 + 8i)(-2 - 8i)$$
+  $$(-7i)(-16 - 64i - 16i - 64i^2)$$
+  $$(-7i)(-16 - 80i - 64(-1))$$
+  $$(-7i)(-16 - 80i + 64)$$
+  $$(-7i)(48 - 80i)$$
+  $$-336i + 560i^2$$
+  $$-336i + 560(-1)$$
+  $$-336i - 560$$
+  $$-560 - 336i$$
+- **Resultado:**
+  $$-560 - 336i$$
+
+---
+
+### 34) $(-2 - 4i)(-1 - 6i)(7 - 6i)$
+- **Procedimiento:**
+  $$(-2 - 4i)(-1 - 6i)(7 - 6i)$$
+  $$(2 + 12i + 4i + 24i^2)(7 - 6i)$$
+  $$(2 + 16i + 24(-1))(7 - 6i)$$
+  $$(2 + 16i - 24)(7 - 6i)$$
+  $$(-22 + 16i)(7 - 6i)$$
+  $$-154 + 132i + 112i - 96i^2$$
+  $$-154 + 244i - 96(-1)$$
+  $$-154 + 244i + 96$$
+  $$-58 + 244i$$
+- **Resultado:**
+  $$-58 + 244i$$
+
+---
+
+### 35) $(3i)(1 - 7i)(7 + 4i)$
+- **Procedimiento:**
+  $$(3i)(1 - 7i)(7 + 4i)$$
+  $$(3i)(7 + 4i - 49i - 28i^2)$$
+  $$(3i)(7 - 45i - 28(-1))$$
+  $$(3i)(7 - 45i + 28)$$
+  $$(3i)(35 - 45i)$$
+  $$105i - 135i^2$$
+  $$105i - 135(-1)$$
+  $$105i + 135$$
+  $$135 + 105i$$
+- **Resultado:**
+  $$135 + 105i$$
+
+---
+
+### 36) $(-6i)(-5 + i)(6 - 2i)$
+- **Procedimiento:**
+  $$(-6i)(-5 + i)(6 - 2i)$$
+  $$(-6i)(-30 + 10i + 6i - 2i^2)$$
+  $$(-6i)(-30 + 16i - 2(-1))$$
+  $$(-6i)(-30 + 16i + 2)$$
+  $$(-6i)(-28 + 16i)$$
+  $$168i - 96i^2$$
+  $$168i - 96(-1)$$
+  $$168i + 96$$
+  $$96 + 168i$$
+- **Resultado:**
+  $$96 + 168i$$
+
+---
+
+### 37) $\frac{10 - 7i}{1 + 3i}$
+- **Procedimiento:**
+  $$\frac{10 - 7i}{1 + 3i}$$
+  $$\frac{(10 - 7i)}{(1 + 3i)} \cdot \frac{(1 - 3i)}{(1 - 3i)}$$
+  $$\frac{10 - 30i - 7i + 21i^2}{1^2 - (3i)^2}$$
+  $$\frac{10 - 37i - 21}{1 - 9i^2} = \frac{-11 - 37i}{1 + 9}$$
+  $$\frac{-11 - 37i}{10} = -\frac{11}{10} - \frac{37}{10}i$$
+- **Resultado:**
+  $$-\frac{11}{10} - \frac{37}{10}i$$
+
+---
+
+### 38) $\frac{4 + 2i}{-1 - 10i}$
+- **Procedimiento:**
+  $$\frac{4 + 2i}{-1 - 10i}$$
+  $$\frac{(4 + 2i)}{(-1 - 10i)} \cdot \frac{(-1 + 10i)}{(-1 + 10i)}$$
+  $$\frac{-4 + 40i - 2i + 20i^2}{(-1)^2 - (10i)^2}$$
+  $$\frac{-4 + 38i - 20}{1 - 100i^2} = \frac{-24 + 38i}{1 + 100}$$
+  $$\frac{-24 + 38i}{101} = -\frac{24}{101} + \frac{38}{101}i$$
+- **Resultado:**
+  $$-\frac{24}{101} + \frac{38}{101}i$$
+
+---
+
+### 39) $\frac{1 + 4i}{-1 - 6i}$
+- **Procedimiento:**
+  $$\frac{1 + 4i}{-1 - 6i}$$
+  $$\frac{(1 + 4i)}{(-1 - 6i)} \cdot \frac{(-1 + 6i)}{(-1 + 6i)}$$
+  $$\frac{-1 + 6i - 4i + 24i^2}{(-1)^2 - (6i)^2}$$
+  $$\frac{-1 + 2i - 24}{1 - 36i^2} = \frac{-25 + 2i}{1 + 36}$$
+  $$\frac{-25 + 2i}{37} = -\frac{25}{37} + \frac{2}{37}i$$
+- **Resultado:**
+  $$-\frac{25}{37} + \frac{2}{37}i$$
+
+---
+
+### 40) $\frac{-8 + 4i}{1 + i}$
+- **Procedimiento:**
+  $$\frac{-8 + 4i}{1 + i}$$
+  $$\frac{(-8 + 4i)}{(1 + i)} \cdot \frac{(1 - i)}{(1 - i)}$$
+  $$\frac{-8 + 8i + 4i - 4i^2}{1^2 - (i)^2}$$
+  $$\frac{-8 + 12i + 4}{1 - i^2} = \frac{-4 + 12i}{1 + 1}$$
+  $$\frac{-4 + 12i}{2} = -\frac{4}{2} + \frac{12}{2}i = -2 + 6i$$
+- **Resultado:**
+  $$-2 + 6i$$
+
+---
+
+### 41) $\frac{-10 + 8i}{6 + i}$
+- **Procedimiento:**
+  $$\frac{-10 + 8i}{6 + i}$$
+  $$\frac{(-10 + 8i)}{(6 + i)} \cdot \frac{(6 - i)}{(6 - i)}$$
+  $$\frac{-60 + 10i + 48i - 8i^2}{6^2 - (i)^2}$$
+  $$\frac{-60 + 58i + 8}{36 - i^2} = \frac{-52 + 58i}{36 + 1}$$
+  $$\frac{-52 + 58i}{37} = -\frac{52}{37} + \frac{58}{37}i$$
+- **Resultado:**
+  $$-\frac{52}{37} + \frac{58}{37}i$$
+
+---
+
+### 42) $\frac{2 - 2i}{4 - 10i}$
+- **Procedimiento:**
+  $$\frac{2 - 2i}{4 - 10i}$$
+  $$\frac{(2 - 2i)}{(4 - 10i)} \cdot \frac{(4 + 10i)}{(4 + 10i)}$$
+  $$\frac{8 + 20i - 8i - 20i^2}{4^2 - (10i)^2}$$
+  $$\frac{8 + 12i + 20}{16 - 100i^2} = \frac{28 + 12i}{16 + 100}$$
+  $$\frac{28 + 12i}{116} = \frac{7 + 3i}{29} = \frac{7}{29} + \frac{3}{29}i$$
+- **Resultado:**
+  $$\frac{7}{29} + \frac{3}{29}i$$
+
+---
+
+# Calcula el valor absoluto de los siguientes números complejos
+
+### 43) $|-9 - 9i|$
+- **Procedimiento:**
+  $$|-9 - 9i| = \sqrt{(-9)^2 + (-9)^2}$$
+  $$\sqrt{81 + 81}$$
+  $$\sqrt{162}$$
+  $$\sqrt{81 \cdot 2}$$
+  $$9\sqrt{2}$$
+- **Resultado:**
+  $$9\sqrt{2}$$
+
+---
+
+### 44) $|8 - 6i|$
+- **Procedimiento:**
+  $$|8 - 6i| = \sqrt{8^2 + (-6)^2}$$
+  $$\sqrt{64 + 36}$$
+  $$\sqrt{100}$$
+  $$10$$
+- **Resultado:**
+  $$10$$
+
+---
+
+### 45) $|6 - 3i|$
+- **Procedimiento:**
+  $$|6 - 3i| = \sqrt{6^2 + (-3)^2}$$
+  $$\sqrt{36 + 9}$$
+  $$\sqrt{45}$$
+  $$\sqrt{9 \cdot 5}$$
+  $$3\sqrt{5}$$
+- **Resultado:**
+  $$3\sqrt{5}$$
+
+---
+
+### 46) $|10 + 10i|$
+- **Procedimiento:**
+  $$|10 + 10i| = \sqrt{10^2 + 10^2}$$
+  $$\sqrt{100 + 100}$$
+  $$\sqrt{200}$$
+  $$\sqrt{100 \cdot 2}$$
+  $$10\sqrt{2}$$
+- **Resultado:**
+  $$10\sqrt{2}$$
+
+---
+
+### 47) $|6 - 10i|$
+- **Procedimiento:**
+  $$|6 - 10i| = \sqrt{6^2 + (-10)^2}$$
+  $$\sqrt{36 + 100}$$
+  $$\sqrt{136}$$
+  $$\sqrt{4 \cdot 34}$$
+  $$2\sqrt{34}$$
+- **Resultado:**
+  $$2\sqrt{34}$$
+
+---
+
+### 48) $|-1 + 7i|$
+- **Procedimiento:**
+  $$|-1 + 7i| = \sqrt{(-1)^2 + 7^2}$$
+  $$\sqrt{1 + 49}$$
+  $$\sqrt{50}$$
+  $$\sqrt{25 \cdot 2}$$
+  $$5\sqrt{2}$$
+- **Resultado:**
+  $$5\sqrt{2}$$
+
+---
+
+# Resuelve las siguientes potencias de $i$
+
+### 49) $i^5$
+- **Procedimiento:**
+  $$i^5 = i^{4(1) + 1}$$
+  $$(i^4)^1 \cdot i^1$$
+  $$(1)^1 \cdot i$$
+  $$1 \cdot i$$
+  $$i$$
+- **Resultado:**
+  $$i$$
+
+---
+
+### 50) $i^{10}$
+- **Procedimiento:**
+  $$i^{10} = i^{4(2) + 2}$$
+  $$(i^4)^2 \cdot i^2$$
+  $$(1)^2 \cdot (-1)$$
+  $$1 \cdot (-1)$$
+  $$-1$$
+- **Resultado:**
+  $$-1$$
+
+---
+
+### 51) $i^{20}$
+- **Procedimiento:**
+  $$i^{20} = i^{4(5) + 0}$$
+  $$(i^4)^5$$
+  $$(1)^5$$
+  $$1$$
+- **Resultado:**
+  $$1$$
+
+---
+
+### 52) $i^{35}$
+- **Procedimiento:**
+  $$i^{35} = i^{4(8) + 3}$$
+  $$(i^4)^8 \cdot i^3$$
+  $$(1)^8 \cdot (-i)$$
+  $$1 \cdot (-i)$$
+  $$-i$$
+- **Resultado:**
+  $$-i$$
+
+---
+
+### 53) $i^{256}$
+- **Procedimiento:**
+  $$i^{256} = i^{4(64) + 0}$$
+  $$(i^4)^{64}$$
+  $$(1)^{64}$$
+  $$1$$
+- **Resultado:**
+  $$1$$
+
+---
+
+### 54) $i^{57}$
+- **Procedimiento:**
+  $$i^{57} = i^{4(14) + 1}$$
+  $$(i^4)^{14} \cdot i^1$$
+  $$(1)^{14} \cdot i$$
+  $$1 \cdot i$$
+  $$i$$
+- **Resultado:**
+  $$i$$
+
+---
+
+# Convierte los siguientes números complejos a su forma polar
+
+### 55) $6 - 8i$
+- **Procedimiento:**
+  $$a = 6, \quad b = -8$$
+  $$r = \sqrt{6^2 + (-8)^2}$$
+  $$r = \sqrt{36 + 64}$$
+  $$r = \sqrt{100}$$
+  $$r = 10$$
+  $$\theta = 360^\circ - \arctan\left(\frac{8}{6}\right)$$
+  $$\theta = 360^\circ - 53.13^\circ$$
+  $$\theta = 306.87^\circ$$
+  $$z = 10(\cos 306.87^\circ + i\sin 306.87^\circ)$$
+- **Resultado:**
+  $$10(\cos 306.87^\circ + i\sin 306.87^\circ)$$
+
+---
+
+### 56) $5\sqrt{2} + 5\sqrt{2}i$
+- **Procedimiento:**
+  $$a = 5\sqrt{2}, \quad b = 5\sqrt{2}$$
+  $$r = \sqrt{(5\sqrt{2})^2 + (5\sqrt{2})^2}$$
+  $$r = \sqrt{50 + 50}$$
+  $$r = \sqrt{100}$$
+  $$r = 10$$
+  $$\tan \theta = \frac{5\sqrt{2}}{5\sqrt{2}}$$
+  $$\tan \theta = 1$$
+  $$\theta = 45^\circ$$
+  $$z = 10(\cos 45^\circ + i\sin 45^\circ)$$
+- **Resultado:**
+  $$10(\cos 45^\circ + i\sin 45^\circ)$$
+
+---
+
+### 57) $2 - 2\sqrt{3}i$
+- **Procedimiento:**
+  $$a = 2, \quad b = -2\sqrt{3}$$
+  $$r = \sqrt{2^2 + (-2\sqrt{3})^2}$$
+  $$r = \sqrt{4 + 12}$$
+  $$r = \sqrt{16}$$
+  $$r = 4$$
+  $$\tan \theta = \frac{-2\sqrt{3}}{2}$$
+  $$\tan \theta = -\sqrt{3}$$
+  $$\theta = 360^\circ - 60^\circ$$
+  $$\theta = 300^\circ$$
+  $$z = 4(\cos 300^\circ + i\sin 300^\circ)$$
+- **Resultado:**
+  $$4(\cos 300^\circ + i\sin 300^\circ)$$
+
+---
+
+### 58) $\frac{3\sqrt{3}}{2} - \frac{3i}{2}$
+- **Procedimiento:**
+  $$a = \frac{3\sqrt{3}}{2}, \quad b = -\frac{3}{2}$$
+  $$r = \sqrt{\left(\frac{3\sqrt{3}}{2}\right)^2 + \left(-\frac{3}{2}\right)^2}$$
+  $$r = \sqrt{\frac{27}{4} + \frac{9}{4}}$$
+  $$r = \sqrt{\frac{36}{4}}$$
+  $$r = \sqrt{9}$$
+  $$r = 3$$
+  $$\tan \theta = \frac{-3/2}{3\sqrt{3}/2}$$
+  $$\tan \theta = -\frac{1}{\sqrt{3}}$$
+  $$\theta = 360^\circ - 30^\circ$$
+  $$\theta = 330^\circ$$
+  $$z = 3(\cos 330^\circ + i\sin 330^\circ)$$
+- **Resultado:**
+  $$3(\cos 330^\circ + i\sin 330^\circ)$$
+
+---
+
+### 59) $-2$
+- **Procedimiento:**
+  $$a = -2, \quad b = 0$$
+  $$r = \sqrt{(-2)^2 + 0^2}$$
+  $$r = \sqrt{4}$$
+  $$r = 2$$
+  $$\theta = 180^\circ$$
+  $$z = 2(\cos 180^\circ + i\sin 180^\circ)$$
+- **Resultado:**
+  $$2(\cos 180^\circ + i\sin 180^\circ)$$
+
+---
+
+### 60) $-7i$
+- **Procedimiento:**
+  $$a = 0, \quad b = -7$$
+  $$r = \sqrt{0^2 + (-7)^2}$$
+  $$r = \sqrt{49}$$
+  $$r = 7$$
+  $$\theta = 270^\circ$$
+  $$z = 7(\cos 270^\circ + i\sin 270^\circ)$$
+- **Resultado:**
+  $$7(\cos 270^\circ + i\sin 270^\circ)$$
+
+---
+
+# Convierte los números complejos de su forma polar a su forma rectangular
+
+### 61) $\cos 30^\circ + i\sin 30^\circ$
+- **Procedimiento:**
+  $$z = 1(\cos 30^\circ + i\sin 30^\circ)$$
+  $$a = 1 \cdot \cos 30^\circ = \frac{\sqrt{3}}{2}$$
+  $$b = 1 \cdot \sin 30^\circ = \frac{1}{2}$$
+  $$z = \frac{\sqrt{3}}{2} + \frac{1}{2}i$$
+- **Resultado:**
+  $$\frac{\sqrt{3}}{2} + \frac{1}{2}i$$
+
+---
+
+### 62) $2(\cos 60^\circ + i\sin 60^\circ)$
+- **Procedimiento:**
+  $$z = 2(\cos 60^\circ + i\sin 60^\circ)$$
+  $$a = 2 \cdot \cos 60^\circ = 2\left(\frac{1}{2}\right) = 1$$
+  $$b = 2 \cdot \sin 60^\circ = 2\left(\frac{\sqrt{3}}{2}\right) = \sqrt{3}$$
+  $$z = 1 + \sqrt{3}i$$
+- **Resultado:**
+  $$1 + \sqrt{3}i$$
+
+---
+
+### 63) $1.5(\cos 90^\circ + i\sin 90^\circ)$
+- **Procedimiento:**
+  $$z = 1.5(\cos 90^\circ + i\sin 90^\circ)$$
+  $$a = 1.5 \cdot \cos 90^\circ = 1.5(0) = 0$$
+  $$b = 1.5 \cdot \sin 90^\circ = 1.5(1) = 1.5$$
+  $$z = 0 + 1.5i$$
+  $$z = 1.5i$$
+- **Resultado:**
+  $$1.5i$$
+
+---
+
+### 64) $2.5(\cos 120^\circ + i\sin 120^\circ)$
+- **Procedimiento:**
+  $$z = \frac{5}{2}(\cos 120^\circ + i\sin 120^\circ)$$
+  $$a = \frac{5}{2} \cdot \cos 120^\circ = \frac{5}{2}\left(-\frac{1}{2}\right) = -\frac{5}{4} = -1.25$$
+  $$b = \frac{5}{2} \cdot \sin 120^\circ = \frac{5}{2}\left(\frac{\sqrt{3}}{2}\right) = \frac{5\sqrt{3}}{4} \approx 2.1651$$
+  $$z = -\frac{5}{4} + \frac{5\sqrt{3}}{4}i$$
+- **Resultado:**
+  $$-\frac{5}{4} + \frac{5\sqrt{3}}{4}i$$
+
+---
+
+### 65) $4(\cos 135^\circ + i\sin 135^\circ)$
+- **Procedimiento:**
+  $$z = 4(\cos 135^\circ + i\sin 135^\circ)$$
+  $$a = 4 \cdot \cos 135^\circ = 4\left(-\frac{\sqrt{2}}{2}\right) = -2\sqrt{2}$$
+  $$b = 4 \cdot \sin 135^\circ = 4\left(\frac{\sqrt{2}}{2}\right) = 2\sqrt{2}$$
+  $$z = -2\sqrt{2} + 2\sqrt{2}i$$
+- **Resultado:**
+  $$-2\sqrt{2} + 2\sqrt{2}i$$
+
+---
+
+### 66) $3(\cos 180^\circ + i\sin 180^\circ)$
+- **Procedimiento:**
+  $$z = 3(\cos 180^\circ + i\sin 180^\circ)$$
+  $$a = 3 \cdot \cos 180^\circ = 3(-1) = -3$$
+  $$b = 3 \cdot \sin 180^\circ = 3(0) = 0$$
+  $$z = -3 + 0i$$
+  $$z = -3$$
+- **Resultado:**
+  $$-3$$
+
+---
+
+# Obtén TODAS las raíces de los siguientes complejos
+
+### 67) 2 raíces cuadradas de $4(\cos 30^\circ + i\sin 30^\circ)$
+- **Procedimiento:**
+  $$z = 4(\cos 30^\circ + i\sin 30^\circ), \quad n = 2$$
+  $$\sqrt[n]{r} = \sqrt{4} = 2$$
+  $$\theta_k = \frac{30^\circ + 360^\circ k}{2} = 15^\circ + 180^\circ k$$
+  $$\text{Para } k = 0:$$
+  $$\theta_0 = 15^\circ + 180^\circ(0) = 15^\circ$$
+  $$w_0 = 2(\cos 15^\circ + i\sin 15^\circ)$$
+  $$w_0 = 2(0.9659 + 0.2588i)$$
+  $$w_0 \approx 1.9319 + 0.5176i$$
+  $$\text{Para } k = 1:$$
+  $$\theta_1 = 15^\circ + 180^\circ(1) = 195^\circ$$
+  $$w_1 = 2(\cos 195^\circ + i\sin 195^\circ)$$
+  $$w_1 = 2(-0.9659 - 0.2588i)$$
+  $$w_1 \approx -1.9319 - 0.5176i$$
+- **Resultado:**
+  $$w_0 = 2(\cos 15^\circ + i\sin 15^\circ) \approx 1.9319 + 0.5176i$$
+  $$w_1 = 2(\cos 195^\circ + i\sin 195^\circ) \approx -1.9319 - 0.5176i$$
+
+---
+
+### 68) 2 raíces cuadradas de $3(\cos 90^\circ + i\sin 90^\circ)$
+- **Procedimiento:**
+  $$z = 3(\cos 90^\circ + i\sin 90^\circ), \quad n = 2$$
+  $$\sqrt[n]{r} = \sqrt{3}$$
+  $$\theta_k = \frac{90^\circ + 360^\circ k}{2} = 45^\circ + 180^\circ k$$
+  $$\text{Para } k = 0:$$
+  $$\theta_0 = 45^\circ + 180^\circ(0) = 45^\circ$$
+  $$w_0 = \sqrt{3}(\cos 45^\circ + i\sin 45^\circ)$$
+  $$w_0 = \sqrt{3}\left(\frac{\sqrt{2}}{2} + \frac{\sqrt{2}}{2}i\right)$$
+  $$w_0 = \frac{\sqrt{6}}{2} + \frac{\sqrt{6}}{2}i$$
+  $$\text{Para } k = 1:$$
+  $$\theta_1 = 45^\circ + 180^\circ(1) = 225^\circ$$
+  $$w_1 = \sqrt{3}(\cos 225^\circ + i\sin 225^\circ)$$
+  $$w_1 = \sqrt{3}\left(-\frac{\sqrt{2}}{2} - \frac{\sqrt{2}}{2}i\right)$$
+  $$w_1 = -\frac{\sqrt{6}}{2} - \frac{\sqrt{6}}{2}i$$
+- **Resultado:**
+  $$w_0 = \frac{\sqrt{6}}{2} + \frac{\sqrt{6}}{2}i$$
+  $$w_1 = -\frac{\sqrt{6}}{2} - \frac{\sqrt{6}}{2}i$$
+
+---
+
+### 69) 3 raíces cúbicas de $-4\sqrt{2} + 4i\sqrt{2}$
+- **Procedimiento:**
+  $$a = -4\sqrt{2}, \quad b = 4\sqrt{2}$$
+  $$r = \sqrt{(-4\sqrt{2})^2 + (4\sqrt{2})^2} = \sqrt{32 + 32} = \sqrt{64} = 8$$
+  $$\tan \theta = \frac{4\sqrt{2}}{-4\sqrt{2}} = -1 \implies \theta = 180^\circ - 45^\circ = 135^\circ$$
+  $$z = 8(\cos 135^\circ + i\sin 135^\circ), \quad n = 3$$
+  $$\sqrt[3]{r} = \sqrt[3]{8} = 2$$
+  $$\theta_k = \frac{135^\circ + 360^\circ k}{3} = 45^\circ + 120^\circ k$$
+  $$\text{Para } k = 0:$$
+  $$\theta_0 = 45^\circ + 120^\circ(0) = 45^\circ$$
+  $$w_0 = 2(\cos 45^\circ + i\sin 45^\circ)$$
+  $$w_0 = 2\left(\frac{\sqrt{2}}{2} + \frac{\sqrt{2}}{2}i\right)$$
+  $$w_0 = \sqrt{2} + \sqrt{2}i$$
+  $$\text{Para } k = 1:$$
+  $$\theta_1 = 45^\circ + 120^\circ(1) = 165^\circ$$
+  $$w_1 = 2(\cos 165^\circ + i\sin 165^\circ)$$
+  $$w_1 = 2(-0.9659 + 0.2588i)$$
+  $$w_1 \approx -1.9319 + 0.5176i$$
+  $$\text{Para } k = 2:$$
+  $$\theta_2 = 45^\circ + 120^\circ(2) = 285^\circ$$
+  $$w_2 = 2(\cos 285^\circ + i\sin 285^\circ)$$
+  $$w_2 = 2(0.2588 - 0.9659i)$$
+  $$w_2 \approx 0.5176 - 1.9319i$$
+- **Resultado:**
+  $$w_0 = \sqrt{2} + \sqrt{2}i$$
+  $$w_1 = 2(\cos 165^\circ + i\sin 165^\circ) \approx -1.9319 + 0.5176i$$
+  $$w_2 = 2(\cos 285^\circ + i\sin 285^\circ) \approx 0.5176 - 1.9319i$$
+
+---
+
+### 70) 3 raíces cúbicas de $-\frac{27}{8}$
+- **Procedimiento:**
+  $$z = -\frac{27}{8} = \frac{27}{8}(\cos 180^\circ + i\sin 180^\circ), \quad n = 3$$
+  $$\sqrt[3]{r} = \sqrt[3]{\frac{27}{8}} = \frac{3}{2}$$
+  $$\theta_k = \frac{180^\circ + 360^\circ k}{3} = 60^\circ + 120^\circ k$$
+  $$\text{Para } k = 0:$$
+  $$\theta_0 = 60^\circ + 120^\circ(0) = 60^\circ$$
+  $$w_0 = \frac{3}{2}(\cos 60^\circ + i\sin 60^\circ)$$
+  $$w_0 = \frac{3}{2}\left(\frac{1}{2} + \frac{\sqrt{3}}{2}i\right)$$
+  $$w_0 = \frac{3}{4} + \frac{3\sqrt{3}}{4}i$$
+  $$\text{Para } k = 1:$$
+  $$\theta_1 = 60^\circ + 120^\circ(1) = 180^\circ$$
+  $$w_1 = \frac{3}{2}(\cos 180^\circ + i\sin 180^\circ)$$
+  $$w_1 = \frac{3}{2}(-1 + 0i)$$
+  $$w_1 = -\frac{3}{2}$$
+  $$\text{Para } k = 2:$$
+  $$\theta_2 = 60^\circ + 120^\circ(2) = 300^\circ$$
+  $$w_2 = \frac{3}{2}(\cos 300^\circ + i\sin 300^\circ)$$
+  $$w_2 = \frac{3}{2}\left(\frac{1}{2} - \frac{\sqrt{3}}{2}i\right)$$
+  $$w_2 = \frac{3}{4} - \frac{3\sqrt{3}}{4}i$$
+- **Resultado:**
+  $$w_0 = \frac{3}{4} + \frac{3\sqrt{3}}{4}i$$
+  $$w_1 = -\frac{3}{2}$$
+  $$w_2 = \frac{3}{4} - \frac{3\sqrt{3}}{4}i$$
+
+---
+
+### 71) 5 raíces de $-32i$
+- **Procedimiento:**
+  $$z = -32i = 32(\cos 270^\circ + i\sin 270^\circ), \quad n = 5$$
+  $$\sqrt[5]{r} = \sqrt[5]{32} = 2$$
+  $$\theta_k = \frac{270^\circ + 360^\circ k}{5} = 54^\circ + 72^\circ k$$
+  $$\text{Para } k = 0:$$
+  $$\theta_0 = 54^\circ + 72^\circ(0) = 54^\circ$$
+  $$w_0 = 2(\cos 54^\circ + i\sin 54^\circ)$$
+  $$w_0 = 2(0.5878 + 0.8090i)$$
+  $$w_0 \approx 1.1756 + 1.6180i$$
+  $$\text{Para } k = 1:$$
+  $$\theta_1 = 54^\circ + 72^\circ(1) = 126^\circ$$
+  $$w_1 = 2(\cos 126^\circ + i\sin 126^\circ)$$
+  $$w_1 = 2(-0.5878 + 0.8090i)$$
+  $$w_1 \approx -1.1756 + 1.6180i$$
+  $$\text{Para } k = 2:$$
+  $$\theta_2 = 54^\circ + 72^\circ(2) = 198^\circ$$
+  $$w_2 = 2(\cos 198^\circ + i\sin 198^\circ)$$
+  $$w_2 = 2(-0.9511 - 0.3090i)$$
+  $$w_2 \approx -1.9021 - 0.6180i$$
+  $$\text{Para } k = 3:$$
+  $$\theta_3 = 54^\circ + 72^\circ(3) = 270^\circ$$
+  $$w_3 = 2(\cos 270^\circ + i\sin 270^\circ)$$
+  $$w_3 = 2(0 - i)$$
+  $$w_3 = -2i$$
+  $$\text{Para } k = 4:$$
+  $$\theta_4 = 54^\circ + 72^\circ(4) = 342^\circ$$
+  $$w_4 = 2(\cos 342^\circ + i\sin 342^\circ)$$
+  $$w_4 = 2(0.9511 - 0.3090i)$$
+  $$w_4 \approx 1.9021 - 0.6180i$$
+- **Resultado:**
+  $$w_0 = 2(\cos 54^\circ + i\sin 54^\circ) \approx 1.1756 + 1.6180i$$
+  $$w_1 = 2(\cos 126^\circ + i\sin 126^\circ) \approx -1.1756 + 1.6180i$$
+  $$w_2 = 2(\cos 198^\circ + i\sin 198^\circ) \approx -1.9021 - 0.6180i$$
+  $$w_3 = -2i$$
+  $$w_4 = 2(\cos 342^\circ + i\sin 342^\circ) \approx 1.9021 - 0.6180i$$
+
+---
+
+### 72) 6 raíces de $729$
+- **Procedimiento:**
+  $$z = 729 = 729(\cos 0^\circ + i\sin 0^\circ), \quad n = 6$$
+  $$\sqrt[6]{r} = \sqrt[6]{729} = 3$$
+  $$\theta_k = \frac{0^\circ + 360^\circ k}{6} = 60^\circ k$$
+  $$\text{Para } k = 0:$$
+  $$\theta_0 = 60^\circ(0) = 0^\circ$$
+  $$w_0 = 3(\cos 0^\circ + i\sin 0^\circ)$$
+  $$w_0 = 3(1 + 0i)$$
+  $$w_0 = 3$$
+  $$\text{Para } k = 1:$$
+  $$\theta_1 = 60^\circ(1) = 60^\circ$$
+  $$w_1 = 3(\cos 60^\circ + i\sin 60^\circ)$$
+  $$w_1 = 3\left(\frac{1}{2} + \frac{\sqrt{3}}{2}i\right)$$
+  $$w_1 = \frac{3}{2} + \frac{3\sqrt{3}}{2}i$$
+  $$\text{Para } k = 2:$$
+  $$\theta_2 = 60^\circ(2) = 120^\circ$$
+  $$w_2 = 3(\cos 120^\circ + i\sin 120^\circ)$$
+  $$w_2 = 3\left(-\frac{1}{2} + \frac{\sqrt{3}}{2}i\right)$$
+  $$w_2 = -\frac{3}{2} + \frac{3\sqrt{3}}{2}i$$
+  $$\text{Para } k = 3:$$
+  $$\theta_3 = 60^\circ(3) = 180^\circ$$
+  $$w_3 = 3(\cos 180^\circ + i\sin 180^\circ)$$
+  $$w_3 = 3(-1 + 0i)$$
+  $$w_3 = -3$$
+  $$\text{Para } k = 4:$$
+  $$\theta_4 = 60^\circ(4) = 240^\circ$$
+  $$w_4 = 3(\cos 240^\circ + i\sin 240^\circ)$$
+  $$w_4 = 3\left(-\frac{1}{2} - \frac{\sqrt{3}}{2}i\right)$$
+  $$w_4 = -\frac{3}{2} - \frac{3\sqrt{3}}{2}i$$
+  $$\text{Para } k = 5:$$
+  $$\theta_5 = 60^\circ(5) = 300^\circ$$
+  $$w_5 = 3(\cos 300^\circ + i\sin 300^\circ)$$
+  $$w_5 = 3\left(\frac{1}{2} - \frac{\sqrt{3}}{2}i\right)$$
+  $$w_5 = \frac{3}{2} - \frac{3\sqrt{3}}{2}i$$
+- **Resultado:**
+  $$w_0 = 3$$
+  $$w_1 = \frac{3}{2} + \frac{3\sqrt{3}}{2}i$$
+  $$w_2 = -\frac{3}{2} + \frac{3\sqrt{3}}{2}i$$
+  $$w_3 = -3$$
+  $$w_4 = -\frac{3}{2} - \frac{3\sqrt{3}}{2}i$$
+  $$w_5 = \frac{3}{2} - \frac{3\sqrt{3}}{2}i$$
