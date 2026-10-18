@@ -1,9 +1,19 @@
 const publicaciones = [
   {
     id: "01pn",
-    titulo: "Poductos Notables",
+    titulo: "Productos Notables",
     archivo: "entradas/productos_notables.js",
     fecha: "2026-10-08",
     resumen: "Productos notables y sus algoritmos de resolución."
+  },
+  {
+    id: "02fi",
+    titulo: "Factorización ",
+    archivo: "entradas/Factorizacion.js",
+    fecha: "2026-10-17",
+    resumen: "Factor común, trinomio cuadrado perfecto y diferencia de cuadrados, con ejemplos y comprobaciones."
   }
 ];
+
+
+
