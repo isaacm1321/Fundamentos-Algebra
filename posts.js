@@ -27,6 +27,7 @@ const publicaciones = [
     fecha: "2026-10-29",
     resumen: "Procedimiento general"
   }
+  
 ];
 
 
